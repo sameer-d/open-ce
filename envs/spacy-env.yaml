@@ -1,4 +1,5 @@
 packages:
-  - feedstock : srsly
+  - feedstock : https://github.com/sameer-d/srsly-feedstock.git
+      git_tag : 30a6b8454bc53fbf50b6ce7dddc7ab726b451452 
   - feedstock : thinc
   - feedstock : spacy
